@@ -28,7 +28,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="270" alt="Developer GIF" />
 
-I'm **Meenakshi Cherukuri** — a Software Developer based in **AP, India**, holding an **Integrated B.Tech in CSE-AIML** from **SASI INSTITUTE OF TECHNOLOGY & ENGINEERING**.
+I'm **Meenakshi Cherukuri** — a Software Engineer based in **AP, India**, holding an **Integrated B.Tech in CSE-AIML** from **SASI INSTITUTE OF TECHNOLOGY & ENGINEERING**.
 
 My trajectory is defined by a relentless drive to solve complex problems, build scalable full-stack applications, and push the boundaries of AI/ML integrations.
 
