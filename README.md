@@ -68,7 +68,7 @@ My trajectory is defined by a relentless drive to solve complex problems, build 
 
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com?user=MeenaCherukuri&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com?user=MeenaCherukuri&theme=tokyonight" />
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MeenaCherukuri&show_icons=true&theme=tokyonight" />
 
